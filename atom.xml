@@ -3,11 +3,11 @@
   <title>情感专家的学习之旅</title>
   
   <subtitle>以梦为马,不负韶华</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://ningcoder.github.io/CsNote/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://ningcoder.github.io/CsNote/"/>
   <updated>2022-03-10T06:02:14.846Z</updated>
-  <id>http://example.com/</id>
+  <id>https://ningcoder.github.io/CsNote/</id>
   
   <author>
     <name>宁一远</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/03/10/hello-world/"/>
-    <id>http://example.com/2022/03/10/hello-world/</id>
+    <link href="https://ningcoder.github.io/CsNote/2022/03/10/hello-world/"/>
+    <id>https://ningcoder.github.io/CsNote/2022/03/10/hello-world/</id>
     <published>2022-03-10T06:12:30.170Z</published>
     <updated>2022-03-10T06:02:14.846Z</updated>
     
